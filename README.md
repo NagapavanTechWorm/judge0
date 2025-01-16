@@ -70,7 +70,7 @@ This will show the current status of all containers running, including Judge0, R
 
 ## Accessing Judge0
 
-Once all services are up and running, you can access the Judge0 API by sending requests to `http://localhost:2358` (by default).
+Once all services are up and running, you can access the Judge0 API by sending requests to `http://<Your IP Address>/dummy-client.html` (by default).
 
 ## Stopping the Services
 
